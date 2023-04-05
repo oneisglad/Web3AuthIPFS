@@ -30,12 +30,20 @@ Step 2. Add the dependency
 	        implementation 'com.github.oneisglad:Web3AuthIPFS:Tag'
 	}
   '''
+  
+# Another important dependency
+
   '''
 Step 3. Add dependency for ipfs
+
 	implementation group: 'com.github.ipfs', name: 'java-ipfs-http-client', version: 'v1.3.3'
   '''
+  
+# one more dependency
+
   '''
 Step 4. Add dependency for Web3Auth
+
 	dependencies {
     // ...
     implementation 'org.torusresearch:web3auth-android-sdk:-SNAPSHOT'
