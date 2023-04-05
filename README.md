@@ -30,3 +30,7 @@ Step 2. Add the dependency
 	        implementation 'com.github.oneisglad:Web3AuthIPFS:Tag'
 	}
   '''
+  '''
+Step 3. Add dependency for ipfs
+	implementation group: 'com.github.ipfs', name: 'java-ipfs-http-client', version: 'v1.3.3'
+  '''
