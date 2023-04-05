@@ -47,5 +47,5 @@ Step 4. Add dependency for Web3Auth
 	dependencies {
     
     implementation 'org.torusresearch:web3auth-android-sdk:-SNAPSHOT'
-}
+    }
   
