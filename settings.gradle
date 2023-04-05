@@ -1,0 +1,3 @@
+include ':ipfsgate'
+include ':app'
+rootProject.name = "Web3AuthIPFS"
